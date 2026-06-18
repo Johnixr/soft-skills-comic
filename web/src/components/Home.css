@@ -114,9 +114,15 @@
 .footer {
   margin-top: 50px; padding-top: 26px;
   border-top: 1px solid var(--card-border);
-  text-align: center; color: var(--ink-dim); font-size: 13px; line-height: 1.7;
+  text-align: center; color: var(--ink-dim); line-height: 1.7;
+  max-width: 760px; margin-inline: auto;
 }
+.footer__main { font-size: 13px; }
+.footer__sub { font-size: 12.5px; margin-top: 8px; opacity: .85; }
 .footer i { color: var(--ink); font-style: italic; }
+.footer b { color: var(--ink); font-weight: 700; }
+.footer a { color: var(--doraemon-light); }
+.footer a:hover { text-decoration: underline; }
 
 @media (max-width: 640px) {
   .grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }

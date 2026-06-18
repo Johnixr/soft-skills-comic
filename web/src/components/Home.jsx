@@ -131,9 +131,16 @@ export default function Home({ manifest, progress, onOpen }) {
 
       {/* ===== 页脚 ===== */}
       <footer className="footer container">
-        <p>
-          基于 John Sonmez 原著 <i>Soft Skills</i> 的 AI 中国语境改编 · 仅供个人学习研究 ·
-          请支持正版原著。
+        <p className="footer__main">
+          本作品为基于 John Sonmez 原著{' '}
+          <a href="https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/1617292397" target="_blank" rel="noreferrer">
+            <i>Soft Skills: The Software Developer's Life Manual</i>
+          </a>{' '}
+          的 <b>AI 改编 / 二次创作</b>，并非原著本身。原著版权归 John Sonmez 及其出版方所有，本项目不拥有、不主张任何原著版权。
+        </p>
+        <p className="footer__sub">
+          仅供个人学习与研究交流，请支持正版原著 · 如涉及版权问题，请联系微信公众号
+          <b>「AGI Hunt」</b>，我们将第一时间删除或作相应调整处理。
         </p>
       </footer>
     </motion.div>
