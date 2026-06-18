@@ -1,0 +1,8 @@
+# 依赖与构建中间产物
+web/node_modules/
+web/dist/
+web/.vite/
+
+# 系统与日志
+.DS_Store
+*.log

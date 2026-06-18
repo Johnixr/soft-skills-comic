@@ -1,0 +1,362 @@
+{
+  "title": "软技能生存指南 · 机器猫漫画版",
+  "subtitle": "代码之外的生存指南 — 71章漫画连载",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "为何这本书与你先前读过的任何书籍都迥然不同",
+      "pages": 15
+    },
+    {
+      "number": 2,
+      "title": "从非同凡响开始：绝不要做他人都在做的事",
+      "pages": 13
+    },
+    {
+      "number": 3,
+      "title": "思考未来：你的目标是什么",
+      "pages": 6
+    },
+    {
+      "number": 4,
+      "title": "人际交往能力：远比你想象的重要",
+      "pages": 9
+    },
+    {
+      "number": 5,
+      "title": "破解面试之道",
+      "pages": 9
+    },
+    {
+      "number": 6,
+      "title": "就业选择：列出你的选择",
+      "pages": 9
+    },
+    {
+      "number": 7,
+      "title": "你是哪类软件开发人员",
+      "pages": 9
+    },
+    {
+      "number": 8,
+      "title": "公司与公司是不一样的",
+      "pages": 8
+    },
+    {
+      "number": 9,
+      "title": "攀登晋升阶梯",
+      "pages": 9
+    },
+    {
+      "number": 10,
+      "title": "成为专业人士",
+      "pages": 9
+    },
+    {
+      "number": 11,
+      "title": "赢得自由——如何辞职",
+      "pages": 13
+    },
+    {
+      "number": 12,
+      "title": "成为自由职业者：开启自己的一片天地",
+      "pages": 11
+    },
+    {
+      "number": 13,
+      "title": "创建你的第一个产品",
+      "pages": 9
+    },
+    {
+      "number": 14,
+      "title": "你打算开始创业吗",
+      "pages": 10
+    },
+    {
+      "number": 15,
+      "title": "远程工作的生存策略",
+      "pages": 9
+    },
+    {
+      "number": 16,
+      "title": "假装自己能成功",
+      "pages": 6
+    },
+    {
+      "number": 17,
+      "title": "单调乏味的简历——如何修改",
+      "pages": 8
+    },
+    {
+      "number": 18,
+      "title": "请勿陷入对技术的狂热之中",
+      "pages": 6
+    },
+    {
+      "number": 19,
+      "title": "针对码农的营销基础课",
+      "pages": 10
+    },
+    {
+      "number": 20,
+      "title": "打造引人注目的品牌",
+      "pages": 9
+    },
+    {
+      "number": 21,
+      "title": "创建大获成功的博客",
+      "pages": 15
+    },
+    {
+      "number": 22,
+      "title": "你的主要目标：为他人增加价值",
+      "pages": 6
+    },
+    {
+      "number": 23,
+      "title": "善于运用社交媒体",
+      "pages": 9
+    },
+    {
+      "number": 24,
+      "title": "演讲、报告和培训：做说话的极客",
+      "pages": 9
+    },
+    {
+      "number": 25,
+      "title": "著书立说，吸引追随者",
+      "pages": 7
+    },
+    {
+      "number": 26,
+      "title": "百折不挠，越挫越勇",
+      "pages": 7
+    },
+    {
+      "number": 27,
+      "title": "学习怎样学习：如何自我教育",
+      "pages": 6
+    },
+    {
+      "number": 28,
+      "title": "我的十步学习法",
+      "pages": 6
+    },
+    {
+      "number": 29,
+      "title": "第1步到第6步：这些步骤只做一次",
+      "pages": 13
+    },
+    {
+      "number": 30,
+      "title": "第7步到第10步：循环往复",
+      "pages": 9
+    },
+    {
+      "number": 31,
+      "title": "寻找导师：找到你的尤达",
+      "pages": 9
+    },
+    {
+      "number": 32,
+      "title": "开山收徒：成为尤达一样的大师",
+      "pages": 6
+    },
+    {
+      "number": 33,
+      "title": "传道授业：若要学知识，必得为人师",
+      "pages": 7
+    },
+    {
+      "number": 34,
+      "title": "你需要一个学位吗，还是可以对此忽略不计",
+      "pages": 8
+    },
+    {
+      "number": 35,
+      "title": "发现自己的知识短板",
+      "pages": 7
+    },
+    {
+      "number": 36,
+      "title": "一切始于专注",
+      "pages": 7
+    },
+    {
+      "number": 37,
+      "title": "我的私房生产力提升计划",
+      "pages": 11
+    },
+    {
+      "number": 38,
+      "title": "番茄工作法",
+      "pages": 11
+    },
+    {
+      "number": 39,
+      "title": "我的定额工作法：我是如何做到超额完成工作的",
+      "pages": 9
+    },
+    {
+      "number": 40,
+      "title": "对自己负责",
+      "pages": 6
+    },
+    {
+      "number": 41,
+      "title": "要不要多任务并行",
+      "pages": 7
+    },
+    {
+      "number": 42,
+      "title": "职业倦怠：我已找到解药",
+      "pages": 8
+    },
+    {
+      "number": 43,
+      "title": "时间是怎样被浪费掉的",
+      "pages": 9
+    },
+    {
+      "number": 44,
+      "title": "形成惯例的重要性",
+      "pages": 7
+    },
+    {
+      "number": 45,
+      "title": "培养习惯：刷新你的代码",
+      "pages": 8
+    },
+    {
+      "number": 46,
+      "title": "分解任务：如何吃掉一头大象",
+      "pages": 9
+    },
+    {
+      "number": 47,
+      "title": "努力工作的价值，以及为什么你总是逃避努力工作",
+      "pages": 7
+    },
+    {
+      "number": 48,
+      "title": "任何行动都比不采取行动好",
+      "pages": 10
+    },
+    {
+      "number": 49,
+      "title": "怎样支配你的薪水",
+      "pages": 11
+    },
+    {
+      "number": 50,
+      "title": "怎样进行薪酬谈判",
+      "pages": 14
+    },
+    {
+      "number": 51,
+      "title": "期权：所有乐趣之所在",
+      "pages": 12
+    },
+    {
+      "number": 52,
+      "title": "房地产投资面面观",
+      "pages": 12
+    },
+    {
+      "number": 53,
+      "title": "你真的了解自己的退休计划吗",
+      "pages": 13
+    },
+    {
+      "number": 54,
+      "title": "债务的危害：社保债务代价昂贵",
+      "pages": 8
+    },
+    {
+      "number": 55,
+      "title": "额外馈赠：我是如何做到33岁退休的",
+      "pages": 22
+    },
+    {
+      "number": 56,
+      "title": "为什么需要破解自己的健康密码",
+      "pages": 8
+    },
+    {
+      "number": 57,
+      "title": "设定你的健身标准",
+      "pages": 8
+    },
+    {
+      "number": 58,
+      "title": "热力学、热量和你",
+      "pages": 9
+    },
+    {
+      "number": 59,
+      "title": "动力：让你的屁股离开椅子",
+      "pages": 9
+    },
+    {
+      "number": 60,
+      "title": "如何增长肌肉：书呆子也能拥有强健的肌肉",
+      "pages": 15
+    },
+    {
+      "number": 61,
+      "title": "如何获得完美腹肌",
+      "pages": 6
+    },
+    {
+      "number": 62,
+      "title": "启动跑步程序",
+      "pages": 6
+    },
+    {
+      "number": 63,
+      "title": "站立式办公及其他窍门",
+      "pages": 6
+    },
+    {
+      "number": 64,
+      "title": "高科技健身装备：极客现身",
+      "pages": 10
+    },
+    {
+      "number": 65,
+      "title": "心灵是如何影响身体的",
+      "pages": 8
+    },
+    {
+      "number": 66,
+      "title": "拥有正确的心态：重新启动",
+      "pages": 11
+    },
+    {
+      "number": 67,
+      "title": "构建一个积极的自我形象——规划你的大脑",
+      "pages": 9
+    },
+    {
+      "number": 68,
+      "title": "爱情与恋爱：计算机无法牵着你的手",
+      "pages": 8
+    },
+    {
+      "number": 69,
+      "title": "我的私房成功书单",
+      "pages": 11
+    },
+    {
+      "number": 70,
+      "title": "积极面对失败",
+      "pages": 8
+    },
+    {
+      "number": 71,
+      "title": "结束语",
+      "pages": 6
+    }
+  ],
+  "totalPages": 650
+}

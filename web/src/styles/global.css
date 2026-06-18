@@ -1,0 +1,68 @@
+:root {
+  --bg-0: #070b1c;
+  --bg-1: #0b1026;
+  --bg-2: #111a3a;
+  --doraemon: #00a0e9;
+  --doraemon-light: #4fc3f7;
+  --bell: #ffd23f;
+  --collar: #ff4d4d;
+  --ink: #eaf2ff;
+  --ink-dim: #9fb0d6;
+  --card: rgba(255, 255, 255, 0.04);
+  --card-border: rgba(120, 170, 255, 0.16);
+  --shadow: 0 18px 50px -16px rgba(0, 0, 0, 0.7);
+  --r-lg: 22px;
+  --r-md: 16px;
+  --safe-b: env(safe-area-inset-bottom, 0px);
+  --safe-t: env(safe-area-inset-top, 0px);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+
+html, body, #root { height: 100%; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB',
+    'Microsoft YaHei', 'Noto Sans SC', system-ui, sans-serif;
+  color: var(--ink);
+  background: var(--bg-0);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+#root { display: flex; flex-direction: column; min-height: 100%; }
+
+a { color: inherit; text-decoration: none; }
+img { display: block; user-select: none; -webkit-user-drag: none; }
+button { font-family: inherit; cursor: pointer; border: none; background: none; color: inherit; }
+::selection { background: var(--doraemon); color: #fff; }
+
+/* 滚动条 */
+::-webkit-scrollbar { width: 9px; height: 9px; }
+::-webkit-scrollbar-thumb { background: rgba(120, 170, 255, 0.28); border-radius: 9px; }
+::-webkit-scrollbar-track { background: transparent; }
+
+.app-shell { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: column; }
+
+/* 通用按钮 */
+.btn {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 12px 22px; border-radius: 999px;
+  font-weight: 600; font-size: 15px;
+  background: linear-gradient(135deg, var(--doraemon), #0073c7);
+  color: #fff; box-shadow: 0 10px 28px -10px rgba(0, 160, 233, 0.8);
+  transition: transform .18s ease, box-shadow .18s ease, filter .18s ease;
+}
+.btn:hover { transform: translateY(-2px); filter: brightness(1.08); }
+.btn:active { transform: translateY(0) scale(.98); }
+.btn.ghost {
+  background: var(--card); border: 1px solid var(--card-border);
+  box-shadow: none; color: var(--ink);
+}
+.btn.ghost:hover { background: rgba(255,255,255,.08); }
+
+.container { width: min(1180px, 100% - 40px); margin-inline: auto; }
+
+@media (max-width: 640px) {
+  .container { width: min(1180px, 100% - 28px); }
+}
